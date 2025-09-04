@@ -1,0 +1,26 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven output directory
+target/
+
+# Eclipse metadata (for workspace, not project)
+.metadata/
+
+# Java class files
+*.class
+
+# Build output directories
+bin/
+build/
+
+# Maven wrapper files (if used)
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
